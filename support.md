@@ -1,2 +1,1 @@
-Conatct page:/old contact
- #Opens at:10:00
+Contact page: /contact /n/n Opens at:9:00
